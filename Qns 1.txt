@@ -1,0 +1,160 @@
+1. Which of the following acts as an interface between user and hardware:
+1) Compiler Software
+2) Operating System Software
+3) Application Software
+4) RDBMS
+2. One of the following is NOT the function of operating system
+1) command interpretation
+2) Peripheral device management
+3) Process management
+4) Document Formatting
+3. An executing instance of a program is called:
+1) Task
+2) Process
+3) Job
+4) Program
+4. A user gives a command to search for specific files as a background process and edit a 'C' program file using vi editor. This is an example of:
+1) Multiprogramming
+2) Multitasking
+3) Time sharing
+4) Multithreading
+5. User interface in UNIX is:
+1) shell
+2) Kernel
+3) Utility
+4) Kern shell
+6. The default shell in UNIX is:
+1) Bourne
+2) Bash
+3) Korn
+4) C
+7. Which part of the UNIX operating system directly interacts with Hardware
+1) Shell
+2) Kernel
+3) Utility
+4) Application
+8.Which of the following acts as an interface between shell and Hardware
+1) Kernel
+2) Shell
+3) Application
+4) Utility
+9. Which of the following acts as an interface between user and kernel
+1) Shell
+2) Kernel
+3) Application
+4) Utility
+10. The heart of UNIX operating system is:
+1) Shell
+2) Kernel
+3) Utilities
+4) Applications
+11. Kernel is:
+1) Hardware
+2) Software
+3) Application software
+4) Compiler software
+12. UNIX is case sensitive and space sensitive
+1) TRUE
+2) FALSE
+13. While installing UNIX, one of the following directory is a MUST
+1) root(/)
+2) usr
+3) user
+4) home
+14. UNIX insists the user to have the hierarchical system
+1) TRUE
+2) FALSE
+15. The logical way of grouping files of same type and storing in a particular location is achieved through the concept of:
+1) Directory
+2) Group
+3) Alias
+4) History
+16. The system administrator in UNIX is referred by the default user name:
+1) root
+2) sa	
+3) administrator
+4) sysadmin
+17. One of the following is NOT a type of user in UNIX
+1) user
+2) group
+3) others
+4) Power user
+18. A shell is a:
+1) Process
+2) User interface
+3) A way to interact with the hardware through kernel using commands/utilities
+4) All the above 
+19. To logout of UNIX the key combination is:
+1) ctrl + d
+2) ctrl + c
+3) ctrl + z
+4) Alt + d
+20. The command to know about the current directory is:
+1) pwd
+2) cwd
+3) cd
+4) pdd
+21. The command to go back to the parent directory from any directory is:
+1) cd
+2) cd ..
+3) cd..
+4) cd ~
+22. The directory given to a user soon after login is referred as:
+1) Working Directory
+2) User directory
+3) Home directory
+4) Present directory
+23. A user wants to display all files including hidden files from the current directory. The command is:
+1) ls
+2) ls -h
+3) ls -a
+4) ls -l
+24. The File Access Permission (FAP) starts with a '-'(Hyphen) for a file ‘prg1) c’. This shows that prg1) c is an:
+1) Ordinary file
+2) Directory file
+3) character special file
+4) Block special file
+25. The File Access Permission (FAP) for a file is '-rwxr-x---'. This shows that :
+1) user has read, write and execute permission
+2) user has read and execute permission
+3) user has no permission
+4) user has read and write permission
+26.Which command is used to delete an empty directory in UNIX system?
+1) rm
+2) rmdir
+3) rm -r
+4) rm -i
+27. To rename a file, the command in UNIX is:
+1) ren
+2) mv
+3) rname
+4) md
+28. A feature of unix that allows output of a command is treated as an input to the subsequent command is :
+1) Semaphore
+2) Pipe
+3) Filter
+4) Background processing
+29. You have issued a command to display the contents of your home directory. You have used redirection to send the output of the command to a file. Which of the following filters will you use to count the number of files in your home directory?
+1)	grep  
+2)	wc  
+3)	cut  
+4)	tr 
+30. What command will easily convert tabs in files to spaces? 
+1)	convert 
+2)	expand 
+3)	unexpand 
+4)	sed
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
